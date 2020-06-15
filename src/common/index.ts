@@ -1,0 +1,6 @@
+// export { default as Table } from './table'
+export { default as Table } from './table/index2'
+export { default as ThirdMenuContainer } from './thirdMenuContainer'
+export { default as FourthMenuContainer } from './fourthMenuContainer'
+export { default as Loading } from './loading'
+export { default as RouterTabs } from './routerTabs/routerTabs'
